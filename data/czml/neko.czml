@@ -19,7 +19,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://user-images.githubusercontent.com/416977/27532246-9312ba30-5a9a-11e7-8631-b1f2b3c2e3c5.PNG",
+            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -34,9 +34,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.65632777778,
-                35.481038888889,
-                1800
+                138.731449,
+                35.3629406,
+                3876
             ]
         },
         "label": {
@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "青山学院大学 相模原キャンパス",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
         "billboard": {
             "scaleByDistance": {
@@ -123,9 +123,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.73666666667,
-                35.503333333333,
-                1800
+                139.402814,
+                35.566754,
+                114
             ]
         },
         "label": {
@@ -154,17 +154,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "青山学院大学 相模原キャンパス"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.73666666667,
-                    35.503333333333,
-                    1800,
-                    138.73666666667,
-                    35.503333333333,
+                    139.402814,
+                    35.566754,
+                    114,
+                    139.402814,
+                    35.566754,
                     0
                 ]
             },
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "スカイツリー",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,9 +212,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.6074636,
-                35.4197767,
-                1800
+                139.810713277778,
+                35.7095291111111,
+                634
             ]
         },
         "label": {
@@ -243,18 +243,18 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "スカイツリー"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
-                    1800,
-                    138.6074636,
-                    35.4197767,
-                    0
+                   139.810713277778,
+                　　35.7095291111111,
+                　　634,
+                   139.810713277778,
+                   35.7095291111111,
+                   0
                 ]
             },
             "material": {
@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "東京ディズニーシー",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -301,9 +301,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7607812,
-                35.5073161,
-                1800
+                139.885011,
+                35.626239,
+                24
             ]
         },
         "label": {
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "東京ディズニーシー"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7607812,
-                    35.5073161,
-                    1800,
-                    138.7607812,
-                    35.5073161,
+                    139.885011,
+                　　 35.626239,
+                　　 24,
+                    139.885011,
+                    35.626239,
                     0
                 ]
             },
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "グランデコスノーリゾート",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -390,9 +390,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7579065,
-                35.5036024,
-                1800
+                140.127044305556
+                37.7096612777778,
+                1010
             ]
         },
         "label": {
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "グランデコスノーリゾート"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7579065,
-                    35.5036024,
-                    1800,
-                    138.7579065,
-                    35.5036024,
+                    140.127044305556,
+                    37.7096612777778,
+                    1010,
+                    140.127044305556,
+                    37.7096612777778,
                     0
                 ]
             },
